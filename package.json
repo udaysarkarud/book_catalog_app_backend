@@ -1,0 +1,7 @@
+{
+  "name": "book_catalog_app_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Uday Sarkar",
+  "license": "MIT"
+}
